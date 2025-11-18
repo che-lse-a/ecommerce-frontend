@@ -16,9 +16,9 @@ const products = [
   { id: 15, name: "Smartphone Tripod", price: 1500, image: "/products/Tripod Stand.jfif" },
   { id: 16, name: "LED Desk Lamp", price: 2000, image: "/products/USB LED Desk Lamp With Eye-Care Dimming, Gooseneck Design, Dual-Color Temperature, Ideal For Reading – Bedroom Ready Back To School.jfif" },
   { id: 17, name: "HD Webcam", price: 5000, image: "/products/Webcam with Microphone,1080P Full HD PC Laptop Desktop Web Camera,USB Computer Camera for Video Conferencing, Recording, and Streaming.jfif" },
-  { id: 18, name: "Fitness Tracker", price: 6500, image: "/public/products/Whoop 4_0.jfif" },
-  { id: 19, name: "Wireless Charger", price: 3500, image: "/public/products/Wireless Charger - Black Marble - Black.jfif" },
-  { id: 20, name: "Mechanical Keyboard", price: 7000, image: "/public/products/Wireless Charger - Black Marble - Black.jfif" },
+  { id: 18, name: "Fitness Tracker", price: 6500, image: "/products/Whoop 4_0.jfif" },
+  { id: 19, name: "Wireless Charger", price: 3500, image: "/products/Wireless Charger - Black Marble - Black.jfif" },
+  { id: 20, name: "Mechanical Keyboard", price: 7000, image: "/products/Wireless Charger - Black Marble - Black.jfif" },
   
 ];
 
