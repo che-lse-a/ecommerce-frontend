@@ -18,7 +18,7 @@ const products = [
   { id: 17, name: "HD Webcam", price: 5000, image: "/products/Webcam with Microphone,1080P Full HD PC Laptop Desktop Web Camera,USB Computer Camera for Video Conferencing, Recording, and Streaming.jfif" },
   { id: 18, name: "Fitness Tracker", price: 6500, image: "/products/Whoop 4_0.jfif" },
   { id: 19, name: "Wireless Charger", price: 3500, image: "/products/Wireless Charger - Black Marble - Black.jfif" },
-    { id: 20, name: "Mechanical Keyboard", price: 7000, image: "/products/public/products/YUNZII AL66 Wireless Mechanical Keyboard.jfif" },
+    { id: 20, name: "Mechanical Keyboard", price: 7000, image: "/products/YUNZII AL66 Wireless Mechanical Keyboard.jfif" },
 ];
 
 export default products;
