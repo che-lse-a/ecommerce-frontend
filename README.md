@@ -28,5 +28,6 @@ VITE_API_URL=https://ecommerce-backend-mj06.onrender.com
 ```bash
 npm run build
 ```
+6. https://ecommerce-frontend-ydsj.vercel.app/
 
 Deploy to Vercel: push to GitHub and import. Set `VITE_API_URL` in project env if you want to use your actual backend.
